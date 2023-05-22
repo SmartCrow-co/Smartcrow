@@ -1,0 +1,5 @@
+<button
+			  className="bg-default-bg text-blue-500 font-semibold px-2 py-2 rounded-full m-2 border border-default-border"
+			  onClick={copyToClipboard}>
+			  <img src="/assets/images/paste.png" alt="Paste Image" className="h-5 w-5" /> 
+			</button>
