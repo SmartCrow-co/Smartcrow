@@ -648,7 +648,7 @@ const HomePage = () => {
   			</div>
 		  </section>
 		  <footer className="flex justify-center pt-5">
-			<a href='https://www.smartcrow.info' className='font-semibold text-default-bt-text'>About</a>
+			<a href='https://www.smartcrow.info' className='font-semibold text-default-bt-text'>About Us</a>
 		  </footer>
 		</main>
 		{showBalloon && (
